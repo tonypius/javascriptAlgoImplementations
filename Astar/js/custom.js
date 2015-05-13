@@ -83,7 +83,14 @@ function drawPath(){
 }
 
 function sortArray(v){
-	
+
+	$.each(v , function(index, value){
+		
+	});
+
+	v.sort(function(x){
+
+	});
 }
 
 // function isVisited(a,visited){

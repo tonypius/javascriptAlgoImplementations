@@ -1,0 +1,33 @@
+.basic{
+	
+	height:100px;
+	width: 100px;
+	background-color:aliceblue;
+	border-style: solid;
+    border-width: 3px;
+    text-align: center;
+}
+
+.basic span{
+	text-align: center;
+}
+
+.visited{
+	background-color: lightgreen;
+}
+
+.path{
+	background-color: orange;
+}
+
+.obstacle{
+	background-color: grey;
+}
+
+.start{
+	background-color: red;
+}
+
+.end{
+	background-color: black;
+}
